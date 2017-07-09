@@ -77,6 +77,6 @@ c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.
 c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
 c:\users\javier\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Javier\Documents\Visual Studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
